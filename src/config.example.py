@@ -1,2 +1,2 @@
 BOT_TOKEN = 'token-bot'
-NGROK_ADDRESS = 'host-address.ngrok.io'
+HOST_ADDRESS = 'host-address.ngrok.io'
